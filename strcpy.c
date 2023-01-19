@@ -4,8 +4,6 @@
 * @version 1/19/23
 */
 
-#include <stdio.h>
-
 void strcpy (char x[], char y[]) {
   int i;
   
